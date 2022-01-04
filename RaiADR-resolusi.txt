@@ -1,0 +1,5 @@
+Halo pak, salken nama saya ade rai dari bekasi
+
+ini resolusi saya :
+-membuat website dengan spring java
+-membuat website dengan react js
